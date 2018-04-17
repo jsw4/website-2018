@@ -1,0 +1,46 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3556425, 2018-04-11T11:02:08-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: VerbRegular-BoldItalic by Yellow Design Studio
+ * URL: https://www.myfonts.com/fonts/yellow-design/verb/bold-italic/
+ * 
+ * Webfont: VerbRegular-Bold by Yellow Design Studio
+ * URL: https://www.myfonts.com/fonts/yellow-design/verb/bold/
+ * 
+ * Webfont: VerbRegular-Italic by Yellow Design Studio
+ * URL: https://www.myfonts.com/fonts/yellow-design/verb/italic/
+ * 
+ * Webfont: VerbRegular by Yellow Design Studio
+ * URL: https://www.myfonts.com/fonts/yellow-design/verb/regular/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3556425
+ * Licensed pageviews: 25,000
+ * Webfonts copyright: Copyright (c) 2013 by Yellow Design Studio. All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/364449");
+
+  
+@font-face {font-family: 'Verb';font-weight: bold;font-style: italic;src: url('webfonts/364449_0_0.eot');src: url('webfonts/364449_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/364449_0_0.woff2') format('woff2'),url('webfonts/364449_0_0.woff') format('woff'),url('webfonts/364449_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Verb';font-weight: bold;font-style: normal;src: url('webfonts/364449_1_0.eot');src: url('webfonts/364449_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/364449_1_0.woff2') format('woff2'),url('webfonts/364449_1_0.woff') format('woff'),url('webfonts/364449_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Verb';font-weight: normal;font-style: italic;src: url('webfonts/364449_2_0.eot');src: url('webfonts/364449_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/364449_2_0.woff2') format('woff2'),url('webfonts/364449_2_0.woff') format('woff'),url('webfonts/364449_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Verb';font-weight: normal;font-style: normal;src: url('webfonts/364449_3_0.eot');src: url('webfonts/364449_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/364449_3_0.woff2') format('woff2'),url('webfonts/364449_3_0.woff') format('woff'),url('webfonts/364449_3_0.ttf') format('truetype');}
+ 

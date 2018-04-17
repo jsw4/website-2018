@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3556426, 2018-04-11T11:03:12-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: VerbBlack by Yellow Design Studio
+ * URL: https://www.myfonts.com/fonts/yellow-design/verb/black/
+ * Copyright: Copyright (c) 2013 by Yellow Design Studio. All rights reserved.
+ * Licensed pageviews: 25,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3556426
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/36444a");
+
+  
+@font-face {font-family: 'VerbBlack';src: url('webfonts/36444A_0_0.eot');src: url('webfonts/36444A_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/36444A_0_0.woff2') format('woff2'),url('webfonts/36444A_0_0.woff') format('woff'),url('webfonts/36444A_0_0.ttf') format('truetype');}
+ 
