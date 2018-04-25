@@ -1,0 +1,7 @@
+/* JSW4 "signature" Font */
+body {font-family: Verb;}
+h1,h2,h3,h4,h5,h6 {font-family: VerbBlack;}
+/* Adjustements and fixes */
+.row {padding-top: 2rem; padding-bottom: 2rem;}
+#r2 ol, #r3 ul {font-size: 1.5rem; font-weight:200; line-height:1.2;}
+#logo {padding-bottom: 2rem;}
